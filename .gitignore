@@ -1,0 +1,9 @@
+vpnitb-windows
+# Ignore all backup files
+*.bak
+
+# Ignore all CX-Programmer option/workspace files
+*.opt
+
+# If you want to ignore all project files (only do this if you store code differently)
+*.cxp
